@@ -13,12 +13,12 @@
     font-style: normal;
   }
 .iconStyle {
-    width: 44px;
-    height: 44px;
     border: 2px solid;
     border-radius: 12px;
-    padding: 8px;
+    padding: 4px;
     cursor: pointer;
     color: #dffd7e;
     border-color: #dffd7e;
+    width: 32px;
+    height: 32px;
 }

@@ -12,6 +12,7 @@ module.exports = {
           light: '#d1dabc',
         },
         background: '#0e1300',
+        nav: '#1a1d11',
         primary: '#dffd7e',
         secondary: {
           dark: '#029d03',
