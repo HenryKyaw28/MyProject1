@@ -13,7 +13,7 @@
     font-style: normal;
   }
 .iconStyle {
-    border: 2px solid;
+    /* border: 1px solid; */
     border-radius: 12px;
     padding: 4px;
     cursor: pointer;
@@ -21,4 +21,15 @@
     border-color: #dffd7e;
     width: 32px;
     height: 32px;
+}
+.liStyle {
+  /* border: 2px solid; 
+  border-radius: 12px;
+  padding: 4px;
+  cursor: pointer;
+    color: #dffd7e;
+    border-color: #dffd7e; */
+}
+.navStyle {
+  border-bottom: 1px solid #029d03;
 }
